@@ -185,7 +185,7 @@ if submitted:
                 # Simplified Layout: Image + Text only. No technical math column.
                 col_img, col_text = st.columns([1, 6])
                 
-                col_img.markdown("## 🍲") 
+                col_img.markdown("##") 
                 
                 with col_text:
                     st.markdown(f"#### {dish['name']}")
