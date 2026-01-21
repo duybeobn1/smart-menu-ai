@@ -1,0 +1,156 @@
+{
+  "Phở Bò": {
+    "yin_yang_value": 5,
+    "health_benefits": ["Strengthens Yang energy and vitality", "Nourishes blood and Qi", "Warms digestive system"],
+    "seasonal": ["winter", "fall"],
+    "portion": "main_meal",
+    "vegan": false
+  },
+  "Gà Kho Gừng (Braised Ginger Chicken)": {
+    "yin_yang_value": 4,
+    "health_benefits": ["Strengthens Yang energy", "Warms the body", "Supports digestion"],
+    "seasonal": ["autumn", "winter"],
+    "portion": "main_meal",
+    "vegan": false
+  },
+  "Đậu Hũ Non Sốt Gấc Miso": {
+    "yin_yang_value": 2,
+    "health_benefits": ["Cooling and hydrating", "High protein, low calorie", "Supports digestion"],
+    "seasonal": ["spring", "summer"],
+    "portion": "appetizer",
+    "vegan": true
+  },
+  "Salad Gỏi Cuốn Chay (Vegan Spring Rolls)": {
+    "yin_yang_value": 1,
+    "health_benefits": ["Hydrating and light", "High fiber, low calorie", "Balances Yin and Yang for summer"],
+    "seasonal": ["spring", "summer"],
+    "portion": "appetizer",
+    "vegan": true
+  },
+  "Quinoa & Vegetable Stir-fry (Vegan)": {
+    "yin_yang_value": 0,
+    "health_benefits": ["Supports digestion", "Rich in protein and fiber", "Balances Yin-Yang"],
+    "seasonal": ["year_round"],
+    "portion": "main_meal",
+    "vegan": true
+  },
+  "Bún Chay (Vegan Noodle Soup)": {
+    "yin_yang_value": -1,
+    "health_benefits": ["Light and hydrating", "Supports digestion", "Low-calorie, nutrient-rich"],
+    "seasonal": ["spring", "summer"],
+    "portion": "main_meal",
+    "vegan": true
+  },
+  "Đậu Hũ Xào Rau Củ (Stir-fried Tofu & Veggies)": {
+    "yin_yang_value": -2,
+    "health_benefits": ["High protein and fiber", "Light and energizing", "Supports digestion"],
+    "seasonal": ["spring", "summer"],
+    "portion": "main_meal",
+    "vegan": true
+  },
+  "Cà Ri Chay (Vegan Curry)": {
+    "yin_yang_value": -3,
+    "health_benefits": ["Supports digestion", "Provides protein and fiber", "Warm and nourishing for cold days"],
+    "seasonal": ["autumn", "winter"],
+    "portion": "main_meal",
+    "vegan": true
+  },
+  "Chè Sen Nhãn (Lotus Seed & Longan Dessert)": {
+    "yin_yang_value": -5,
+    "health_benefits": ["Calms the mind", "Supports Yin", "Hydrating and cooling"],
+    "seasonal": ["summer"],
+    "portion": "dessert",
+    "vegan": true
+  },
+  "Bánh Mì Chay (Vegan Sandwich)": {
+    "yin_yang_value": 0,
+    "health_benefits": ["High fiber, moderate protein", "Supports digestion", "Light meal for all seasons"],
+    "seasonal": ["year_round"],
+    "portion": "main_snack",
+    "vegan": true
+  },
+  "Cừu Nướng Mật Ong (Honey Grilled Lamb)": {
+    "yin_yang_value": 5,
+    "health_benefits": ["Potent Yang booster", "Warms the kidneys and core", "High protein energy"],
+    "seasonal": ["winter"],
+    "portion": "main_meal",
+    "vegan": false
+  },
+  "Canh Bí Đỏ Tôm Tươi (Pumpkin & Shrimp Soup)": {
+    "yin_yang_value": 3,
+    "health_benefits": ["Moderate Yang support", "Boosts immune system", "Good for eyes and skin"],
+    "seasonal": ["autumn", "winter"],
+    "portion": "appetizer",
+    "vegan": false
+  },
+  "Chả Cá Lã Vọng (Turmeric Grilled Fish)": {
+    "yin_yang_value": 2,
+    "health_benefits": ["Anti-inflammatory (Turmeric)", "Lean protein", "Warms the stomach gently"],
+    "seasonal": ["spring", "autumn"],
+    "portion": "main_meal",
+    "vegan": false
+  },
+  "Cơm Gạo Lứt Muối Mè (Brown Rice with Sesame)": {
+    "yin_yang_value": 0,
+    "health_benefits": ["Perfectly balanced energy", "High fiber and minerals", "Stabilizes blood sugar"],
+    "seasonal": ["year_round"],
+    "portion": "main_meal",
+    "vegan": true
+  },
+  "Gỏi Đu Đủ Tôm Thịt (Green Papaya Salad)": {
+    "yin_yang_value": -1,
+    "health_benefits": ["Refreshing and digestive", "Rich in enzymes", "Light Yin energy"],
+    "seasonal": ["summer"],
+    "portion": "appetizer",
+    "vegan": false
+  },
+  "Cháo Đậu Xanh (Mung Bean Porridge)": {
+    "yin_yang_value": -3,
+    "health_benefits": ["Detoxifying and cooling", "Reduces internal heat", "Easy on digestion"],
+    "seasonal": ["summer", "spring"],
+    "portion": "main_meal",
+    "vegan": true
+  },
+  "Canh Khổ Qua Nhồi Thịt (Stuffed Bitter Melon Soup)": {
+    "yin_yang_value": -4,
+    "health_benefits": ["Strong heat-clearing properties", "Lowers blood sugar", "Deeply cooling for liver"],
+    "seasonal": ["summer"],
+    "portion": "main_meal",
+    "vegan": false
+  },
+  "Nước Nha Đam Hạt Chia (Aloe Vera & Chia Drink)": {
+    "yin_yang_value": -5,
+    "health_benefits": ["Deeply hydrating", "Cools the blood", "Soines skin and digestion"],
+    "seasonal": ["summer"],
+    "portion": "dessert",
+    "vegan": true
+  },
+  "Gà Ác Tiềm Thuốc Bắc (Black Chicken Herbal Soup)": {
+    "yin_yang_value": 7,
+    "health_benefits": ["Potent restorative", "Raises Yang Qi rapidly", "Treats deep exhaustion/cold"],
+    "seasonal": ["winter"],
+    "portion": "medicinal_soup",
+    "vegan": false
+  },
+  "Lẩu Dê Hầm Sả (Goat & Lemongrass Hotpot)": {
+    "yin_yang_value": 6,
+    "health_benefits": ["Strongly warms the kidneys", "Boosts circulation", "High caloric energy"],
+    "seasonal": ["winter"],
+    "portion": "main_meal",
+    "vegan": false
+  },
+  "Súp Cua Tuyết Nhĩ (Snow Fungus & Crab Soup)": {
+    "yin_yang_value": -6,
+    "health_benefits": ["Deeply nourishing Yin", "Cools internal fire", "Good for lungs and throat"],
+    "seasonal": ["summer"],
+    "portion": "appetizer",
+    "vegan": false
+  },
+  "Nộm Sứa Dưa Chuột (Jellyfish & Cucumber Salad)": {
+    "yin_yang_value": -7,
+    "health_benefits": ["Extremely cooling", "Lowers high blood pressure/Yang fire", "Detoxifying"],
+    "seasonal": ["summer"],
+    "portion": "appetizer",
+    "vegan": false
+  }
+}
